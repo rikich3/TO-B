@@ -1,3 +1,4 @@
+build/
 *.tex
 *.log
 *.aux
